@@ -27,3 +27,36 @@ figure {
   width: 50%;
   margin: 40px auto;
 }
+
+.film-poster {
+  width: 200px;
+}
+
+.film-details {
+  position: absolute;
+  box-sizing: border-box;
+  margin-top: -330px;
+  width: 450px;
+  margin-left: 220px;
+}
+
+.action-watch-later {
+  position: absolute;
+  box-sizing: border-box;
+  margin-top: -300px;
+  margin-left: 170px;
+  color: red;
+}
+
+.action-like {
+  position: absolute;
+  color: red;
+  margin-left: 380px;
+  margin-top: 70px;
+}
+
+.action-likes {
+  color: red;
+  margin-left: 380px;
+  margin-top: 170px;
+}
